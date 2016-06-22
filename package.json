@@ -1,0 +1,19 @@
+{
+  "name": "awesome-todo",
+  "version": "1.0.0",
+  "description": "Awesome todo with ReactJS",
+  "main": "index.ejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/onlyblank/awesome-todo.git"
+  },
+  "author": "Blanca Pérez - @onlyblank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlyblank/awesome-todo/issues"
+  },
+  "homepage": "https://github.com/onlyblank/awesome-todo#readme"
+}
